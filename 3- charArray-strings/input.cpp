@@ -1,3 +1,5 @@
+/*reading a string from input buffer using cin.get()
+*/
 #include<iostream>
 using namespace std;
 
