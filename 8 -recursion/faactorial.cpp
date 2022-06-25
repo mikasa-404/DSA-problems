@@ -1,3 +1,5 @@
+/*calculate factorial of given numbver recursively*/
+
 #include<iostream>
 using namespace std;
 

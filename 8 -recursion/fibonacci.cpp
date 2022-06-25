@@ -1,4 +1,4 @@
-/*fibonacci series: 0 1 1 2 3 5 8 ... */
+/*print fibonacci series recursively: 0 1 1 2 3 5 8 ... */
 
 #include<iostream>
 using namespace std;
