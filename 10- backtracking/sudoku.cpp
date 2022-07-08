@@ -8,7 +8,7 @@ void printboard(int board[][9])
         {
             cout<<board[i][j]<<" ";
         }
-        cout<<endl;
+        cout<<"\n";
     }
 }
 
