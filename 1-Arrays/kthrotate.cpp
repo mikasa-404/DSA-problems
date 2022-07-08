@@ -29,3 +29,13 @@ vector <int> krotate2(vector<int> nums, int k) {
         return nums;
     }
 
+int main(){
+    vector<int> a={1,2,3,4,5,6,7};
+    int k=3;
+    vector<int> ans= krotate2(a,k);
+    for (int i = 0; i < ans.size(); i++)
+    {
+        cout<<ans[i]<<" ";
+    }
+    
+}
