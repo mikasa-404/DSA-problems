@@ -1,6 +1,4 @@
-/*Given an integer array nums of unique elements, return all possible subsets (the power set).
-*/
-//Note: if there are duplicate elements in array of nums: then sort nums first and then use set instead of vector to avoid duplicates in array ans
+/*Given an integer array nums of unique elements, return all possible subsets (the power set).*/
 #include<iostream>
 #include<vector>
 #include<algorithm>
